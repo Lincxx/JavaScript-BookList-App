@@ -1,6 +1,6 @@
 # Book List App
 
-This Book List App only uses JavaScript with JavaScript classes. There is no frame workd
+This Book List App only uses JavaScript with JavaScript classes, Bootstrap and Fontawesome. There are no framework.
 
 ![Book List App][logo]
 
